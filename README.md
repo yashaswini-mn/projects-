@@ -1,2 +1,2 @@
 # projects-
-this is a folder of my projects
+this is a folder of my git projects
